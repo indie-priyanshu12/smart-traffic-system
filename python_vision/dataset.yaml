@@ -1,0 +1,5 @@
+path: c:/Users/utkar/Documents/WORKSPACE/smart-traffic-system/python_vision/dataset
+train: images/train
+val: images/val
+names:
+  0: car
